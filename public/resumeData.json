@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name": "Sourav Shandilya",
+    "occupation": "SDE at Juspay",
+    "description": "Experience of two years in the fintech industry, enhancing payments for millions of Indians by making them fast, smooth, and safe.",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sourav! A Self-enthusiast developer who is interested in developing applications for platforms of interest such as the web, Android, and desktop. I am a full-stack developer and have experience building real-time applications optimised for performance. I'm always interested in exploring technologies.",
+    "contactmessage": "Get in touch with me!",
+    "email": "souravshandilya1507@gmail.com",
+    "phone": "+91 7783073122",
+    "address": {
+      "street": "8th Block, Kormangla",
+      "city": "Bangalore",
+      "state": "Karnatka",
+      "PinCode": "560095"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sourav-shandilya-3478a516a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/imsourav15",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Swami keshvanand Institute of Technology Jaipur",
+        "degree": "Bachelor of technologies, Computer Science",
+        "graduated": "June 2022",
+        "description": "Graduated with First Class Honours, SGPA: 9.32"
+      }
+    ],
+    "work": [
+      {
+        "company": "Juspay Technologies",
+        "title": "Software Developer Engineer",
+        "years": "August 2021 - Present",
+        "description": "Working on Juspay’s payment page and SDK and enriching the payment ex- perience for users and help Juspay reach more than 50 millions transactions per day."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name" : "git",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Let’s Meet",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://github.com/imsourav15/let-s-meet"
+      },
+      {
+        "title": "Khana-Khajana",
+        "category": "",
+        "image": "gmail.jpg",
+        "url": "https://imsourav15.github.io/recipee-finder/"
+      }
+    ]
+  }
+}
