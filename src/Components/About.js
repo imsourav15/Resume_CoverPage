@@ -47,7 +47,7 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-               <a href="https://drive.google.com/file/d/1er5kfcfy1GxnrcAKhizNK3CYcyvH1K4z/view?usp=sharing" className="button">
+               <a href="https://drive.google.com/file/d/11akEtX3tyAjKfy1tvAMAgEHsIN0tNZJd/view?usp=sharing" className="button">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>
